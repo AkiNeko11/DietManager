@@ -1,2 +1,4 @@
 # dietmanager
- a diet manager system
+ a diet manager system based on YOLO
+
+  
